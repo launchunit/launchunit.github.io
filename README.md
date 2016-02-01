@@ -6,8 +6,6 @@
 * We are bootstrapped.
 * We're building the company we always wanted, with people who share the same passion for technology, solutions and customers.
 
-If you happen to be an experienced **software engineer** who wants to end up in a role with a mix of **product management**, **customer interactions**, and individual **contributions to the code**, we have just the position for you. You have to **like working remotely**.
-
 -----
 
 ## Backend Engineer
